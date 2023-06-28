@@ -1,0 +1,2 @@
+args :
+Namespace(dataset_root=None, iterations=None, img_up_bound=None, epochs=None, workers=4, manual_seed=427, arch=None, log_dir='./logs', log_interval=50, test_interval=5, lr=0.1, lr_step=None, lr_gamma=None, momentum=0.9, weight_decay=0.0001, batch_size=128, classes_per_it_tr=None, num_support_tr=None, num_query_tr=None, classes_per_it_val=None, num_support_val=None, num_query_val=None, name_list=None)

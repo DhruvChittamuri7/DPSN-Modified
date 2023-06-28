@@ -1,0 +1,2 @@
+args :
+Namespace(dataset_root='../SFA_Python-master/test/WM_feature_Data_pyts/', iterations=100, img_up_bound=None, epochs=1000, workers=8, manual_seed=1814, arch='linear_transform', log_dir='./logs/5shot_linear_transform/', log_interval=20, test_interval=10, lr=0.002, lr_step=10000, lr_gamma=0.7, momentum=0.9, weight_decay=1e-05, batch_size=512, classes_per_it_tr=None, num_support_tr=2, num_query_tr=2, classes_per_it_val=None, num_support_val=2, num_query_val=2, name_list=None)
